@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-17T17:23:53.958507563+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: ctrlc
+  version: 3.1.1
+  digest: 09K4KzsvpknZvE6JuUp07ZJAlBccJUCjOQ1UP_MKsjI
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+aQyTuWnhH5G9kdHzWKpaMPfn3HK8_LfnJ0L2-TX-w29kL2ehXYofDEdXA48qVwt8MrS3L9kEYoQb2WRDSdisCw
+-----END CREV PACKAGE REVIEW-----
+
