@@ -19,3 +19,24 @@ comment: "I'm the author"
 aQyTuWnhH5G9kdHzWKpaMPfn3HK8_LfnJ0L2-TX-w29kL2ehXYofDEdXA48qVwt8MrS3L9kEYoQb2WRDSdisCw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-22T18:07:45.846952125+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lazy_static
+  version: 0.2.11
+  digest: wPLFFiGi_hhlu1wRLR_YLNM7FCGO5aywD87u5wBDD7c
+review:
+  thoroughness: none
+  understanding: medium
+  rating: strong
+comment: Common and well-known crate from a known author.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+0A-OsZXq06vU8fHZD1BWRPwUr3gbNW7iCgXfTHoLohc7kv6PMckIJy8tgUBZhUVqWEjvaGWOSpxM4lU5_KVjAw
+-----END CREV PACKAGE REVIEW-----
+
