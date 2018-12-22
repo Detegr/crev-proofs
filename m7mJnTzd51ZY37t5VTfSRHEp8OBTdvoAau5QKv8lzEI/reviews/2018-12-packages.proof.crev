@@ -40,3 +40,24 @@ comment: Common and well-known crate from a known author.
 0A-OsZXq06vU8fHZD1BWRPwUr3gbNW7iCgXfTHoLohc7kv6PMckIJy8tgUBZhUVqWEjvaGWOSpxM4lU5_KVjAw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-22T20:31:58.476185559+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: nix
+  version: 0.9.0
+  digest: w4oTKJ5qKHZ3uqwSE5RLDgAxzIvb7EeiL8S9YeL9D4M
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+comment: "Popular crate. Lots of unsafe, as it contains FFI bindings. Still, looks solid and has a long history. Actively maintained."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+Fz3liB5j5AKWh7ruYi_InrPXyxhFG3hLcZllS8KWbITCr8A_cMZPnAbhDIBEmqOukLNzMH5lsLhCouYcq0A0BA
+-----END CREV PACKAGE REVIEW-----
+
