@@ -61,3 +61,24 @@ comment: "Popular crate. Lots of unsafe, as it contains FFI bindings. Still, loo
 Fz3liB5j5AKWh7ruYi_InrPXyxhFG3hLcZllS8KWbITCr8A_cMZPnAbhDIBEmqOukLNzMH5lsLhCouYcq0A0BA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-24T08:36:15.930091332+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cfg-if
+  version: 0.1.6
+  digest: 6QgNbGbGai0WP4rIc_eiIXuWsMtegXAFRxkeFHJgOQE
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+comment: The author belongs to the Rust team. Well documented.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+6TJ-OFytG7KArlGPacuJDU4L2vO2OemOfwF_amdFx_hfyFvtqdyTgHMSy4OYM8wjasj_QH_GL_HylSDXkEVCBQ
+-----END CREV PACKAGE REVIEW-----
+
