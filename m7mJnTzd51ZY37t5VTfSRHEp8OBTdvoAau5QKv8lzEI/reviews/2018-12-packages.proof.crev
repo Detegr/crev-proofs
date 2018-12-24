@@ -82,3 +82,24 @@ comment: The author belongs to the Rust team. Well documented.
 6TJ-OFytG7KArlGPacuJDU4L2vO2OemOfwF_amdFx_hfyFvtqdyTgHMSy4OYM8wjasj_QH_GL_HylSDXkEVCBQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-24T09:20:36.170801307+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: void
+  version: 1.0.2
+  digest: mmRZ15GpboF6sor0NdT0l1MKzJ4m3nPj7LCaRTxUzfs
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: "Essentially implements `!`-type for stable Rust. `!`-type is preferred to `Void`, but it is currently unstable. No unsafe code, simple implementation that can be read through in minutes. In nightly Rust, this type could be an alias for `!`, see (https://github.com/reem/rust-void/issues/13), but unfortunately it is not implemented."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+QiS7fK7_6CrAxCyd6YcjVAugrxIszwKdwwFfJOC3AFZK_eH91hk-KKl1NFdxueR15B5LCm3klami7Cj5FbZUCw
+-----END CREV PACKAGE REVIEW-----
+
