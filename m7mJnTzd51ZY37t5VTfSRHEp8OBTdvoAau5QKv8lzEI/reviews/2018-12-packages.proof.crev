@@ -103,3 +103,24 @@ comment: "Essentially implements `!`-type for stable Rust. `!`-type is preferred
 QiS7fK7_6CrAxCyd6YcjVAugrxIszwKdwwFfJOC3AFZK_eH91hk-KKl1NFdxueR15B5LCm3klami7Cj5FbZUCw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-24T09:33:05.392269280+02:00"
+from:
+  id-type: crev
+  id: m7mJnTzd51ZY37t5VTfSRHEp8OBTdvoAau5QKv8lzEI
+  url: "https://github.com/detegr/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 0.9.1
+  digest: hstWjEwFE1j4fz9kpTNCLWqsZHeaEQpvu_o62Jgs2fg
+review:
+  thoroughness: none
+  understanding: medium
+  rating: strong
+comment: Well-known crate. The author belongs to the Rust team. Well documented.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+hM-cwc4CJetlTBeNpqK_rPSot5WkjBq3dJvwE1wJWtBNA9R0O4pmsqcPmlaTGeCQY4qpPmJRN3jibHJvWZh2Aw
+-----END CREV PACKAGE REVIEW-----
+
